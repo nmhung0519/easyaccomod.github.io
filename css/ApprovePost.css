@@ -1,0 +1,37 @@
+.post-image-thumb {
+    float: left;
+    background-size: cover;
+    height: 120px;
+    width: 150px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.post-info {
+    float: left;
+    height: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+    .post-info span {
+        display: block;
+    }
+
+.post-area {
+    color: #9b9b9b;
+}
+
+.post-price {
+    color: #c90927;
+    font-weight: 700;
+}
+
+.post-user {
+    color: #9b9b9b;
+}
+
+.post-datetime {
+    font-size: 10px;
+    color: #9b9b9b;
+}
